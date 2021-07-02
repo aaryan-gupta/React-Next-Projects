@@ -1,0 +1,8 @@
+.hover {
+	transform: scale(1);
+	transition: ease all 200ms;
+}
+.hover:hover {
+	transform: scale(1.15);
+	transition: ease all 200ms;
+}

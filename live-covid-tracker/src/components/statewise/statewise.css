@@ -1,0 +1,9 @@
+table tr td:hover:nth-child(5) {
+	background-color: red;
+	color: white;
+	/* border: 0.5px solid black; */
+}
+table tr td:hover {
+	background-color: lightgreen;
+	/* border: 0.5px solid black; */
+}
